@@ -9,7 +9,7 @@ The project is a game created by a group students in the course II1305 Project w
 
 [https://teamuppkvark.github.io/UppkvarkExpo2021/]
 
-**The project is created by:**
+**The project was created by:**
 - Elin Lie
 - Ley-Olivia Avila
 - Markus Newton Hedelin

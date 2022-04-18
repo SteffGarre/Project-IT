@@ -1,4 +1,4 @@
-#XOR: Win or Lose
+# XOR: Win or Lose
 
 The project is a game created by a group students in the course II1305 Project within Information and Communications Technology at KTH.
 

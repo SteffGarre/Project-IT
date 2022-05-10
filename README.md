@@ -4,7 +4,7 @@ The project is a game created by a group students in the course II1305 Project w
 
 **Description**
 
-"XOR: Win or Lose" is a turn-based RPG, inspired by the old Pokémon games. Instead of fighting Pokémons, the player is challenged by KTH lecturers from KTH Kista and their course related questions. Even though the questions are based on real content, the answers the player can give are filled with humor and are far from seroius. Do you want to see KTH Kista, without having to travel, and go on an adventure? Please go to our website and try the game!
+XOR: Win or Lose" is a turn-based RPG, inspired by the old Pokémon games. Instead of fighting Pokémons, the player is challenged by KTH lecturers from KTH Kista and their course related questions. Even though the questions are based on real content, the answers the player can give are filled with humor and are far from serious. Do you want to see KTH Kista, without having to travel, and go on an adventure? Please go to our website and try the game!
 
 
 [https://teamuppkvark.github.io/UppkvarkExpo2021/]

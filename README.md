@@ -10,7 +10,7 @@ XOR: Win or Lose" is a turn-based RPG, inspired by the old Pokémon games. Inste
 [https://teamuppkvark.github.io/UppkvarkExpo2021/]
 
 **The project was created by:**
-- Elin Lie
+- Elin Liu
 - Ley-Olivia Avila
 - Markus Newton Hedelin
 - Martin Forslund
